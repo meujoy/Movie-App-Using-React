@@ -1,6 +1,6 @@
 import './App.css'
 import Home from './pages/home'
-import MovieCard from './assets/components/MovieCard';
+import MovieCard from './components/MovieCard';
 
 function App() {
   return (
