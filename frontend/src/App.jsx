@@ -1,4 +1,4 @@
-import './App.css'
+import './css/App.css'
 import Home from './pages/home';
 import Navbar from './components/Navbar';
 import MovieCard from './components/MovieCard';

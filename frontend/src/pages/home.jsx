@@ -1,5 +1,6 @@
 import MovieCard from "../components/MovieCard";
 import { useState } from "react";
+import '../css/Home.css'
 
 function Home() {
     //searchQuery is the current state value, setSearchQuery is the function to update the state
